@@ -1,1 +1,1 @@
-This document contains documentation
+This folder contains a README file for documentation of available documents in assignment folder
